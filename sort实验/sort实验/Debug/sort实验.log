@@ -1,0 +1,6 @@
+﻿  sortlist.cpp
+d:\数据结构\sort实验\sort实验\sortlist.h(23): warning C4018: “<”: 有符号/无符号不匹配
+d:\数据结构\sort实验\sort实验\sortlist.cpp(101): warning C4156: 未使用数组形式的“delete”删除数组表达式；数组形式被替代
+d:\数据结构\sort实验\sort实验\sortlist.cpp(101): warning C4154: 删除数组表达式；转换到提供的指针
+d:\数据结构\sort实验\sort实验\sortlist.cpp(192): warning C4101: “i”: 未引用的局部变量
+  sort实验.vcxproj -> D:\数据结构\sort实验\Debug\sort实验.exe

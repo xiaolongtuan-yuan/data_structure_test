@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Seek", "Seek\Seek.vcxproj", "{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Debug|x64.ActiveCfg = Debug|x64
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Debug|x64.Build.0 = Debug|x64
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Debug|x86.Build.0 = Debug|Win32
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Release|x64.ActiveCfg = Release|x64
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Release|x64.Build.0 = Release|x64
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Release|x86.ActiveCfg = Release|Win32
+		{5DD6B295-C96C-4BD6-B5BF-884A63815B2D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5AA035-6E20-4919-9791-10A29A94BA6E}
+	EndGlobalSection
+EndGlobal
